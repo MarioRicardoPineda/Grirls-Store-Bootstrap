@@ -1,0 +1,35 @@
+.poster{
+  background-image: url('../img/portada.jpg');
+  background-size: cover;
+  height: calc(100vh - 66px);
+}
+
+.color-marca{
+  color: #F7AD9C;
+}
+
+.bg-marca{
+  background-color: #F7AD9C;
+}
+
+.font-marca{
+  font-family: 'Delius Unicase', sans-serif, serif;
+}
+
+.bg-marcargba{
+  background-color: rgba(255, 255, 255, .8);
+}
+
+.title{
+  width: 80vw;
+}
+
+.btn-marca{
+  background-color: #F7AD9C;
+}
+
+.btnWhats{
+  right: 20px;
+  bottom: 20px;
+  width: 80px;
+}
